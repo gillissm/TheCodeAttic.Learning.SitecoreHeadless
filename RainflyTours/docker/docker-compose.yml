@@ -30,7 +30,7 @@ services:
   rendering:
     image: ${BASE_REGISTRY}${NODEJS_IMAGE}
     volumes:
-      - ..\src\rendering:C:\app
+      - ..\src\rendering\rainflytours:C:\app
     environment:
       SITECORE_API_HOST: "http://cm"
       NEXTJS_DIST_DIR: ".next-container"
