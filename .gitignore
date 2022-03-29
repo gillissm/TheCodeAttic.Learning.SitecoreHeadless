@@ -348,3 +348,26 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+/RainflyTours/src/rendering/rainflytours/scjssconfig.json
+/RainflyTours/src/rendering/rainflytours/sitecore/config/rainflytours.deploysecret.config
+/RainflyTours/src/rendering/rainflytours/src/temp/componentFactory.ts
+/RainflyTours/src/rendering/rainflytours/src/temp/config.js
+/RainflyTours/docker/.env
+
+/.vscode/*
+
+/RainflyTours/docker/data/cm/*
+!/RainflyTours/docker/data/cm/.gitkeep
+/RainflyTours/docker/data/sql/*
+!/RainflyTours/docker/data/sql/.gitkeep
+/RainflyTours/docker/data/solr/*
+!/RainflyTours/docker/data/solr/.gitkeep
+/RainflyTours/docker/data/traefik/certs/*
+!/RainflyTours/docker/data/traefik/certs/.gitkeep
+/RainflyTours/docker/data/traefik/config/dynamic/*
+!/RainflyTours/docker/data/traefik/config/dynamic/.gitkeep
+!/RainflyTours/docker/deploy/platform/.gitkeep
+!/RainflyTours/docker/deploy/.gitkeep
+/RainflyTours/docker/.env
+!/RainflyTours/src/*/.gitkeep
+/RainflyTours/src/rendering/rainflytours/.next-container
