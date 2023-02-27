@@ -1,5 +1,8 @@
+
 {
-    "namespace": "Projct.RainflyTours",
+    "$schema": "../../.sitecore/schemas/ModuleFile.schema.json",
+
+    "namespace": "Project.RainflyTours",
     "references": [
     ],
     "items": {
@@ -11,7 +14,8 @@
                 "rules": [
                     {
                         "path": "/content/rainflytours",
-                        "alias": "content"
+                        "alias": "content",
+                        "dat
                     }
                 ]
             },
@@ -22,7 +26,8 @@
                 "rules": [
                     {
                         "path": "/media library/rainflytours",
-                        "alias": "media"
+                        "alias": "media",
+                        
                     }
                 ]
             },
@@ -40,5 +45,6 @@
             
         ]
     }
+    
 }
 

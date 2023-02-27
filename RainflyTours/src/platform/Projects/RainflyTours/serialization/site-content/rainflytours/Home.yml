@@ -28,10 +28,12 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{5D326E5C-888D-47B6-AF00-B8F3AB68FFDC}"
+              uid="{33429370-85AE-4619-A02B-FE75BEC2914E}"
               s:ds="{012D5C34-8B18-413F-953E-5D83F8EE4A8C}"
               s:id="{BF5AAD42-69F8-45A6-A321-AB6BECA39A74}"
-              s:ph="jss-main" />
+              s:par=""
+              s:ph="jss-main"
+              s:ccb="Clear on publish" />
           </d>
         </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
@@ -47,11 +49,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d438f7a2-b1a0-4855-9514-9cd1a9394af4"
+      Value: "2c8a59d8-07d3-477e-97bb-0a547d7aea85"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20220608T042753Z
+      Value: 20221010T135401Z
